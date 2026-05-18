@@ -13,7 +13,7 @@ The project includes simple Python and C++ examples that simulate infrastructure
 
 ---
 
-## Topics Covered
+## 📖 Topics Covered
 
 - Moving averages
 - Standard deviation
@@ -23,29 +23,29 @@ The project includes simple Python and C++ examples that simulate infrastructure
 
 ---
 
-## Project Structure
+## 🧱 Project Structure
 
 ```text
 adam-huynh/
-├── doc/
-│   └── works-cited.md
+├── 📂 doc/
+│    └── works-cited.md
 │
-├── presentation/
-│   └── video-link.md
+├── 📂 presentation/
+│    └── video-link.md
 │
-├── public/
-│   └── presentation-img.png
+├── 📂 public/
+│    └── presentation-img.png
 │
-└── src/
-    ├── aiops.cpp
-    └── aiops.py
+└── 📂 src/
+     ├── aiops.cpp
+     └── aiops.py
 ```
 
 ---
 
-## Presentation
+## 🎤 Presentation
 
-The presentation video and supporting screenshot can be found in:
+The presentation video link can be found in:
 
 ```text
 presentation/video-link.md
@@ -53,37 +53,28 @@ presentation/video-link.md
 
 ---
 
-## Python Demonstration
+## 🐍 Python Demonstration
 
 The Python example demonstrates:
 
 - Moving average calculation
 - Standard deviation calculation
-- Z-score anomaly detection
+- Z-score anomaly detection `z = (x - mu) / sigma`
 - Basic infrastructure anomaly monitoring simulation
 
-Run the Python example:
+---
 
-```bash
-python3 src/aiops.py
-```
+## 💻 C++ Demonstration
+
+The C++ example demonstrates: 
+
+- AI infrastructure monitoring
+- Real-time metric analysis
+- Linear combination `z = W(x) + b`
 
 ---
 
-## C++ Demonstration
-
-The C++ example demonstrates basic infrastructure monitoring simulation concepts.
-
-Compile and run:
-
-```bash
-g++ src/aiops.cpp -o aiops
-./aiops
-```
-
----
-
-## Real-World Relevance
+## 🌍 Real-World Relevance
 
 Modern cloud and DevOps environments generate massive amounts of operational data such as:
 
@@ -97,7 +88,7 @@ AIOps systems use statistical analysis and AI-assisted decision making to detect
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Adam Huynh
 
