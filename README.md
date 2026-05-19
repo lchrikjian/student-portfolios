@@ -13,13 +13,13 @@ This repository serves as a central portfolio for all students to showcase code,
 ## Prerequisites
 - Create a GitHub account: <a href="https://github.com/signup" target="_blank">GitHub Sign Up</a>
 - Download and install Git Bash: <a href="https://git-scm.com/downloads" target="_blank">Git Bash Download</a> (Optional: Windows using cmd line)
-#### GitHub Fork & PR Tutorial
+#### STEP 1. GitHub Fork & PR Tutorial
 <a href="https://youtu.be/8ifZr4zjkZ8" target="_blank">
   <img src="public/tutorial-preview.png" width="200">
   <p>Click to watch the tutorial video.</p>
 </a>
 
-#### How to Submit Your Project
+#### STEP 2. How to Submit Your Project
 <a href="https://youtu.be/oZ2pcaGglDo" target="_blank">
   <img src="public/submission-preview.png" width="200">
   <p>Click to watch the tutorial video.</p>
