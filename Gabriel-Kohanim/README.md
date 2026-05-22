@@ -91,6 +91,5 @@ Action: [delta_x: +0.12] [delta_y: -0.03] [gripper: open]
 
 ## 👤 Author
 
-**[Your Name]**
+**Gabriel Kohanim**
 Pierce College — CS131, Spring 2026
-Research Assistant, USC Information Sciences Institute
